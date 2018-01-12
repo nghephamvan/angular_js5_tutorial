@@ -10,6 +10,12 @@ h2, h3 {
     font-weight: lighter;
 }
 
+h4 {
+    color: blueviolet;
+    font-family: Courier New, Courier, monospace;
+    font-weight: bold;
+}
+
 body {
     margin: 2em;
 }
